@@ -1,0 +1,2 @@
+# MixOtimiza-o
+Otimizador amador!
