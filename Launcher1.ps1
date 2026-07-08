@@ -115,6 +115,7 @@ $Categorias = @(
         Itens = @(
             @{ Op = "8";  Arquivo = "08-PrivacyTweaks.ps1";     Nome = "Ajustes de Privacidade" }
             @{ Op = "24"; Arquivo = "24-ThreatScanner.ps1";     Nome = "Threat Scanner (Indicadores)" }
+            @{ Op = "29"; Arquivo = "28-Remove-WindowsTelemetry.ps1";     Nome = "Remove Win Telemetry (Removedor de telemtria)" }
         )
     },
 
