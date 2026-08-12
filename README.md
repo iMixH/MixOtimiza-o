@@ -1,2 +1,2 @@
 # MixOtimiza-o
-Otimizador amador!
+Otimizador AIO para todas as pessoas!!!
